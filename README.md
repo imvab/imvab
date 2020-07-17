@@ -20,7 +20,7 @@
 ### Python & Flutter Dev 🚀 from India.
 - 👨🏽‍💻 I’m currently working on a FinTech Startup.
 - 🌱 I’m currently learning about GANs.
-- 👯 I’m looking to collaborate any opensource project.
+- 👯 I’m looking to collaborate on any opensource project.
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭.
 - 💬 Ask me about anything, I am happy to help.
 - ⚡️ My Portfolio Website: https://imvab.github.io
