@@ -13,3 +13,16 @@
   <img align="left" alt="Vaibhav's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <br />
+<br></br>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" />
+
+### Python & Flutter Dev 🚀 from India.
+- 👨🏽‍💻 I’m currently working on a FinTech Startup.
+- 🌱 I’m currently learning about GANs.
+- 👯 I’m looking to collaborate any opensource project.
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭.
+- 💬 Ask me about anything, I am happy to help.
+- ⚡️ 
+- 📫 How to reach me: vaibhavbirlavb@gmail.com
+<!-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)-->
