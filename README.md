@@ -27,4 +27,3 @@
 - 📫 How to reach me: vaibhavbirlavb@gmail.com
 <!-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)-->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imvab)](https://github.com/anuraghazra/github-readme-stats)
