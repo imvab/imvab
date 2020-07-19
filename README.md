@@ -27,4 +27,4 @@
 - 📫 How to reach me: vaibhavbirlavb@gmail.com
 <!-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)-->
 
-![](https://badges.pufler.dev/visits/imvab/imvab)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imvab" alt="imvab" /> </p>
