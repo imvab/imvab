@@ -3,7 +3,7 @@
 <a href="https://twitter.com/immvab">
   <img align="left" alt="Vaibhav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/vaibhav-birla-960412b7">
+<a href="https://www.linkedin.com/in/imvab">
   <img align="left" alt="Vaibhav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@imvab">
@@ -12,7 +12,7 @@
 <a href="https://kaggle.com/immvab">
   <img align="left" alt="Vaibhav's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-<a href="https://www.instagram.com/immvab/">
+<a href="https://www.instagram.com/imvab_/">
   <img align="left" alt="Vaibhav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
 </a>
 <br />
