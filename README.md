@@ -21,7 +21,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" />
 
 ### Python & Flutter Dev 🚀 from India.
-- 👨🏽‍💻 I’m currently working on a FinTech Startup.
+- 👨🏽‍💻 I’m currently working at BrowserStack!
 - 🌱 I’m currently learning about GANs.
 - 👯 I’m looking to collaborate on any opensource project.
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭.
