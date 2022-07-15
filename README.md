@@ -16,15 +16,12 @@
   <img align="left" alt="Vaibhav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
 </a>
 <br />
-<br></br>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" />
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=imvab&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&hide=stars" alt="Vaibhav Birla" />
 
 ### Python & Flutter Dev 🚀 from India.
 - 👨🏽‍💻 I’m currently working at BrowserStack!
-- 🌱 I’m currently learning about GANs.
 - 👯 I’m looking to collaborate on any opensource project.
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭.
 - 💬 Ask me about anything, I am happy to help.
 - ⚡️ My Portfolio Website: https://imvab.github.io
 - 📫 How to reach me: vaibhavbirlavb@gmail.com
@@ -32,4 +29,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvab" alt="imvab" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=imvab&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&hide=stars" alt="Vaibhav Birla" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=imvab&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&hide=stars" alt="Vaibhav Birla" /> -->
