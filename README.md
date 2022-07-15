@@ -31,3 +31,5 @@
 <!-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvab" alt="imvab" /> </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=imvab&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&hide=stars" alt="Vaibhav Birla" />
